@@ -7,16 +7,16 @@
     </ul>
   <li><b>Ranganatan book</b>
     <ul>
-      <li>Ranganathan S. R., "Prolegomena to Library Classification, 3rd edi-tion by SR Ranganathan assisted by M. A. Gopinath.", Chapter Q,R,S Asia Publish-ing House (1967), https://repository.arizona.edu/handle/10150/106370.</li>
+      <li>Ranganathan S. R., "Prolegomena to Library Classification, 3rd edi-tion by SR Ranganathan assisted by M. A. Gopinath.", Chapter Q,R,S Asia Publish-ing House (1967), <a href="https://repository.arizona.edu/handle/10150/106370">link</a>.</li>
       <li>Ranganathan S. R., Depth Classification and Reference Service & Reference Material, Indian Library Association, 1953.</li>
       <li>Ranganathan S. R., Postulation approach to facetd classification: depth classification 29, Annals of Library Science & Documentation, Volume
 5(2); 1958; p. 33-51; Reprinted with permission from NISCAIR</li>
     </ul>
   </li>
-  <li><b>Ranganatan book</b>
+  <li><b>Math</b>
     <ul>
-      <li></li>
-      <li></li>
+      <li>Butz Arthur R., "Space filling curves and mathematical programming.", Information and control 12.4 (1968): 314-330, < href="https://core.ac.uk/download/pdf/82469366.pdf">link</a></li>
+      <li>Peano Giuseppe, "Sur une courbe, qui remplit toute une aire plane.", Mathematische Annalen 36.1 (1890): 157-160, <a href="https://ia600708.us.archive.org/view_archive.php?archive=/22/items/crossref-pre-1909-scholarly-works/10.1007%252F978-1-349-10358-4.zip&file=10.1007%252Fbf01199438.pdf">link</a></li>
     </ul>
   </li>
 </ul>
