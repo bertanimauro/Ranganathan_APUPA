@@ -20,6 +20,12 @@ of the Conceptions of Boole's Calculus of Logic", Memoirs of the American Academ
        <li>Hosseini Giv Hossein, The Axiom of Choice, Well-Ordering, and Well-Classification, American Mathematical Monthly, 122. 10.4169/amer.math.monthly.122.01.56. , (2015) <a href="https://www.researchgate.net/publication/272891734_The_Axiom_of_Choice_Well-Ordering_and_Well-Classification">link</a></li>
        <li>Zermelo Ernst, Investigations in the foundations of set theory I. 1908. [transl. in From
 Frege to G¨odel, van Heijenoort, Harvard Univ. Press, 1971.]</li>
+       <li>De Morgan Augustus, "Syllabus of a proposed system of logic", Wanton and Maberly, 1860 <a href="https://books.google.it/books?hl=en&lr=&id=E60RAAAAYAAJ">link</a></li>
+       <li> , <a href="">link</a></li>
+       <li> , <a href="">link</a></li>
+       <li>Dijkstra Edsger W. , "Predicate calculus: The unification of three calculi", EDW1123, <a href="https://www.cs.utexas.edu/users/EWD/ewd11xx/EWD1123.PDF">link</a></li>
+       <li>Dijkstra Edsger W. , "Predicate calculus: How subtypes should enter the picture", EDW1160, <a href="https://www.cs.utexas.edu/users/EWD/ewd11xx/EWD1160.PDF">link</a></li>
+       <li>Dijkstra Edsger W. , "Predicate calculus: Our book’s omission on quantification over scalar subtypes", EDW1184, <a href="https://www.cs.utexas.edu/users/EWD/ewd11xx/EWD1184.PDF">link</a></li>
        <li> , <a href="">link</a></li>
     </ul>
   </li>
