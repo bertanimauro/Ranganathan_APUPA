@@ -21,12 +21,20 @@ of the Conceptions of Boole's Calculus of Logic", Memoirs of the American Academ
        <li>Zermelo Ernst, Investigations in the foundations of set theory I. 1908. [transl. in From
 Frege to G¨odel, van Heijenoort, Harvard Univ. Press, 1971.]</li>
        <li>De Morgan Augustus, "Syllabus of a proposed system of logic", Wanton and Maberly, 1860 <a href="https://books.google.it/books?hl=en&lr=&id=E60RAAAAYAAJ">link</a></li>
-       <li> , <a href="">link</a></li>
-       <li> , <a href="">link</a></li>
        <li>Dijkstra Edsger W. , "Predicate calculus: The unification of three calculi", EDW1123, <a href="https://www.cs.utexas.edu/users/EWD/ewd11xx/EWD1123.PDF">link</a></li>
        <li>Dijkstra Edsger W. , "Predicate calculus: How subtypes should enter the picture", EDW1160, <a href="https://www.cs.utexas.edu/users/EWD/ewd11xx/EWD1160.PDF">link</a></li>
        <li>Dijkstra Edsger W. , "Predicate calculus: Our book’s omission on quantification over scalar subtypes", EDW1184, <a href="https://www.cs.utexas.edu/users/EWD/ewd11xx/EWD1184.PDF">link</a></li>
-       <li> , <a href="">link</a></li>
+       <li>Peirce Benjamin, "Linear Associative Algebra", American Journal of Mathematics , 1881, Vol. 4, No. 1 (1881), pp. 97-229 <a href="http://www.jstor.com/stable/2369153">link</a></li>
+       <li>Peirce Charles Sanders , "On the Algebra of Logic", American Journal of Mathematics , Mar., 1880, Vol. 3, No. 1 (Mar., 1880), pp.
+15-57
+<a href="https://www.jstor.org/stable/2369442">link</a></li>
+       <li>Peirce Charles Sanders , "On the Algebra of Logic: A Contribution to the Philosophy of Notation", American Journal of Mathematics , Jan., 1885, Vol. 7, No. 2 (Jan., 1885), pp.
+180-196 , <a href="https://www.jstor.org/stable/2369451">link</a></li>
+       <li>Peirce Charles Sanders , "On the Algebra of Logic [Continued]" , American Journal of Mathematics , Apr., 1885, Vol. 7, No. 3 (Apr., 1885), pp.
+197-202 <a href="https://www.jstor.org/stable/2369269">link</a></li>
+       <li>Sylvester J. J. , "Lectures on the Principles of Universal Algebra", American Journal of Mathematics , 1883 - 1884, Vol. 6, No. 1 (1883 - 1884), pp.
+270-286
+ <a href="https://www.jstor.org/stable/2369224">link</a></li>
     </ul>
   </li>
 </ul>
