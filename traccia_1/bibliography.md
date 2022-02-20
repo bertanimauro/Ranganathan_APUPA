@@ -30,9 +30,19 @@
   </li>
   <li><b>Micksa</b>
     <ul>
+      <li>Miksa Francis, The influence of mathematics on the classificatory thought of SR Ranganathan, (1997)</li>
       <li>Thomas M. Dousa, Intellection and Intuition: On the Epistemology of S.R. Ranganathan,  NASKO. Vol. 7. 149-173, (2019), <a href="https://journals.lib.washington.edu/index.php/nasko/article/view/15637">link</a></li>
       <li>Ranganathan, Shiyali Ramamrita. "Micro thought and its service." (1957), <a href="http://nopr.niscair.res.in/handle/123456789/28538">link</a></li>
-      <li></li>
+      <li>Broughton, V. (2006), "The need for a faceted classification as the basis of all methods of information retrieval", Aslib Proceedings, Vol. 58 No. 1/2, pp. 49-72, <a href="https://doi.org/10.1108/00012530610648671">link</a></li>
+      <li>Bianchini Carlo & Luca Giusti & Claudio Gnoli, "The APUPA bell curve.", Les cahiers du numérique 13.1, (2017), 49-68, <a href="https://www.cairn.info/revue-les-cahiers-du-numerique-2017-1-page-49.htm">link</a>.</li>
+      <li>Broughton Vanda, "Notational expressivity; the case for and against the representation of internal subject structure in notational coding.", KO KNOWLEDGE ORGANIZATION 26.3, (1999), 140-148, <a href="">https://www.nomos-elibrary.de/10.5771/0943-7444-1999-3-140/notational-expressivity-the-case-for-and-against-the-representation-of-internal-subject-structure-in-notational-coding-volume-26-1999-issue-3</a>.</li>
+    </ul>
+  </li>
+  <li><b>History of math</b>
+    <ul>
+      <li>Boyer Carl B. & Uta C. Merzbach, A history of mathematics (chapter XXVI), John Wiley & Sons, (2011).</li>
+      <li>La Barre, Kathryn. (2006). The use of faceted analytico-synethic theory as revealed in the practice and construction of website design, <a href="https://www.researchgate.net/publication/266274664_The_use_of_faceted_analytico-synethic_theory_as_revealed_in_the_practice_and_construction_of_website_design">link</a></li>
+      <li>Van den Heuvel Charles, "Multidimensional classifications: Past and future conceptualizations and visualizations.", KO KNOWLEDGE ORGANIZATION 39.6,  (2012), 446-460, <a href="https://www.nomos-elibrary.de/10.5771/0943-7444-2012-6-446.pdf">link</a></li>
     </ul>
   </li>
 </ul>
