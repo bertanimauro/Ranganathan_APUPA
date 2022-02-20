@@ -35,7 +35,7 @@
       <li>Ranganathan, Shiyali Ramamrita. "Micro thought and its service." (1957), <a href="http://nopr.niscair.res.in/handle/123456789/28538">link</a></li>
       <li>Broughton, V. (2006), "The need for a faceted classification as the basis of all methods of information retrieval", Aslib Proceedings, Vol. 58 No. 1/2, pp. 49-72, <a href="https://doi.org/10.1108/00012530610648671">link</a></li>
       <li>Bianchini Carlo & Luca Giusti & Claudio Gnoli, "The APUPA bell curve.", Les cahiers du numérique 13.1, (2017), 49-68, <a href="https://www.cairn.info/revue-les-cahiers-du-numerique-2017-1-page-49.htm">link</a>.</li>
-      <li>Broughton Vanda, "Notational expressivity; the case for and against the representation of internal subject structure in notational coding.", KO KNOWLEDGE ORGANIZATION 26.3, (1999), 140-148, <a href="">https://www.nomos-elibrary.de/10.5771/0943-7444-1999-3-140/notational-expressivity-the-case-for-and-against-the-representation-of-internal-subject-structure-in-notational-coding-volume-26-1999-issue-3</a>.</li>
+      <li>Broughton Vanda, "Notational expressivity; the case for and against the representation of internal subject structure in notational coding.", KO KNOWLEDGE ORGANIZATION 26.3, (1999), 140-148, <a href="https://www.nomos-elibrary.de/10.5771/0943-7444-1999-3-140/notational-expressivity-the-case-for-and-against-the-representation-of-internal-subject-structure-in-notational-coding-volume-26-1999-issue-3">link</a>.</li>
     </ul>
   </li>
   <li><b>History of math</b>
