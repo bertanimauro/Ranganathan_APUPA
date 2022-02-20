@@ -21,10 +21,10 @@
   </li>
 </ul>
 <!--
-<li><b>Ranganatan book</b>
+<li><b>Conceptual maps</b>
     <ul>
-      <li></li>
-      <li></li>
+      <li>Bertani Mauro, mappa concettuale,formato png, (2020)</li>
+      <li>Bertani Mauro, structure, formato png (2021)</li>
     </ul>
   </li>
 -->
