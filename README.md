@@ -9,3 +9,8 @@ History in the time of S.R.Ranganathan and prolegomena part Q. The work starts b
 C.S.Peirce and lattice
 
 
+
+## cvs
+All possible combinations of a word of 8 bit and a word of 16 bit
+
+
