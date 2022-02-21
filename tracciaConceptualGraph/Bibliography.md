@@ -32,17 +32,13 @@ Foundations for Ontology", VivoMind Intelligence Inc., <a href="http://www.jfsow
     </ul>
   </li>
   <li><h2>Precis</h2>
-    <ul>
-       
-       
-       
-       <li> , <a href="">link</a></li>
-       <li> , <a href="">link</a></li>
-       <li> , <a href="">link</a></li>
-       <li> , <a href="">link</a></li>
-       <li> , <a href="">link</a></li>
-       <li> , <a href="">link</a></li>
-       <li> , <a href="">link</a></li>
+    <ul>     
+       <li>Higgins Peter , "the rise and fall of precis as indexing system", 1991<a href="https://repository.lboro.ac.uk/articles/educational_resource/The_rise_and_fall_of_PRECIS_as_an_indexing_system/14884338/files/28658232.pdf">link</a></li>
+       <li>Curwen Anthony G., "A decade of PRECIS, 1974-84", Journal of librarianship, 17.4, (1985), 244-267, <a href="https://journals.sagepub.com/doi/abs/10.1177/096100068501700402">link</a></li>
+       <li>McIlwaine Ia C., "Indexing and the Classification Research Group", Indexer, 23.4, (2003), 204-209, <a href="https://www.researchgate.net/publication/265362879_Indexing_and_the_Classification_Research_Group">link</a></li>
+       <li>Petrucciani Alberto , "PRECIS un sistema di indicizzazione in sperimentazione in Italia", L'indicizzazione, Anno 2, n. 1, 1987</li>
+       <li>Petrucciani Alberto, "Le prospettive di lavoro del Gruppo di ricerca sull'indicizzazione per soggetto" ,Bollettino AIB, ISSN 1121-1490, voi. 32 n. 4 (dicembre 1992), p. 419-43 </li>
+       <li>Fabbrizzi Andrea , "Guida all'indicizzazione per soggetto", AIB, 2001<a href="https://www.sba.unifi.it/upload/Guida_allindicizzazione_per_soggetto_GRIS.pdf">link</a></li>
     </ul>
   </li>
 </ul>
