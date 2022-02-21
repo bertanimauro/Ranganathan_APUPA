@@ -24,10 +24,11 @@ https://www.academia.edu/12103235/Laws_of_Form_Laws_of_Logic">link</a></li>
        <li>Rao Anup , "Turing Machine and boolean circuit: Lecture 2", <a href="https://homes.cs.washington.edu/~anuprao/pubs/431/lecture2.pdf">link</a></li>
        <li>Rao Anup , "Dianagolization: Lecture 4" , <a href="https://homes.cs.washington.edu/~anuprao/pubs/431/lecture4.pdf">link</a></li>
        <li>Corcoran John et al, “String Theory.” The Journal of Symbolic Logic, vol. 39, no. 4, [Association for Symbolic Logic, Cambridge University Press], 1974, pp. 625–37, https://doi.org/10.2307/2272846 , <a href="https://www.jstor.org/stable/2272846">link</a></li>
-       <li> , <a href="https://www.gutenberg.org/files/21016/21016-pdf.pdf">link</a></li>
+       <li>Dedekind Richard, "Essays on the Theory of Numbers", traslated by Wooster Woodruf Beman, (1901) [eBook 21016]<a href="https://www.gutenberg.org/files/21016/21016-pdf.pdf">link</a></li>
+       <li>Solomonoff Ray J., "A formal theory of inductive inference. Part I", Information and control, 7.1, (1964), 1-22. , <a href="https://www.sciencedirect.com/science/article/pii/S0019995864902232">link</a></li>
+       <li>Solomonoff Ray J., "A formal theory of inductive inference. Part II", Information and control, 7.2, (1964), 224-254. , <a href="https://core.ac.uk/reader/81988200">link</a></li>
     </ul>
   </li>
-  <li><h2>,</h2></li>
 </ul>
 
 <!-- 
