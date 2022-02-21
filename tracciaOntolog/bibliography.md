@@ -1,7 +1,7 @@
 # Bibliography of tracciaOntolog
 <body>
 <ul>
-  <li><h2>Propositional calculus</h2>
+  <li>
      <ul>
        <li>Wikipedia en, "Hilbert system" , (2022) , <a href="https://en.wikipedia.org/wiki/Hilbert_system">link</a></li>
        <li>Wikipedia en, "List of Hilbert system" , (2022) <a href="https://en.wikipedia.org/wiki/List_of_Hilbert_systems">link</a></li>
@@ -22,7 +22,7 @@
        <li>Sheffer Henry Maurice, "A set of five independent postulates for Boolean algebras, with application to logical constants", Transactions of the American mathematical society, 14.4, (1913), 481-488, <a href="https://www.jstor.org/stable/1988701">link</a></li>
     </ul>
   </li>
-  <li><h2>Awbrey Jon</h2>
+  <li>
     <ul>
       <li>Awbrey Jon , "Cactus Language", Oeiswiki, visited 2022 <a href="https://oeis.org/wiki/Cactus_Language_%E2%80%A2_Overview">link</a></li>
        <li>Awbrey Jon , "Logical Graph", Oeiswiki, visited 2022 , <a href="https://oeis.org/wiki/Logical_Graphs">link</a></li>
@@ -34,6 +34,8 @@
 </ul>
 
 <!-- struct
+<h2>Propositional calculus</h2>
+<h2>Awbrey Jon</h2>
 <ul>
   <li>
      <ul>
@@ -45,4 +47,5 @@
 </ul>
 -->
 </body>
+
 
