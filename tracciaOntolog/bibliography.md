@@ -19,13 +19,17 @@
        <li>Nicod Jean, "A Reduction in the number of the Primitive Propositions of Logic",  Proceedings of the Cambridge Philosophical Society 19 (1917–1920), 32–41 <a href="https://en.wikisource.org/w/index.php?title=A_Reduction_in_the_number_of_the_Primitive_Propositions_of_Logic&oldid=10781757">link</a></li>
        <li>Scharle Thomas W., "Axiomatization of propositional calculus with Sheffer functors", Notre Dame Journal of Formal Logic, 6.3, (1965), 209-217, <a href="https://projecteuclid.org/journals/notre-dame-journal-of-formal-logic/volume-6/issue-3/Axiomatization-of-propositional-calculus-with-Sheffer-functors/10.1305/ndjfl/1093958259.short">link</a></li>
        <li>Sheffer Henry Maurice, "A set of five independent postulates for Boolean algebras, with application to logical constants", Transactions of the American mathematical society, 14.4, (1913), 481-488, <a href="https://www.jstor.org/stable/1988701">link</a></li>
-       <li>Awbrey Jon , "Cactus Language", Oeiswiki, visited 2022 <a href="https://oeis.org/wiki/Cactus_Language_%E2%80%A2_Overview">link</a></li>
+    </ul>
+  </li>
+  <li>Awbrey Jon
+    <ul>
+      <li>Awbrey Jon , "Cactus Language", Oeiswiki, visited 2022 <a href="https://oeis.org/wiki/Cactus_Language_%E2%80%A2_Overview">link</a></li>
        <li>Awbrey Jon , "Logical Graph", Oeiswiki, visited 2022 , <a href="https://oeis.org/wiki/Logical_Graphs">link</a></li>
        <li>Awbrey Jon , "Propositional Equation Reasoning Systems", Oeiswiki, visited 2022  , <a href="https://oeis.org/wiki/Propositional_Equation_Reasoning_Systems">link</a></li>
        <li>Awbrey Jon , "Exploratory Qualitative Analysis of Sequential Observation Data", Oeiswiki, visited 2022  , <a href="http://web.archive.org/web/20180828161616/http://intersci.ss.uci.edu/wiki/index.php/Exploratory_Qualitative_Analysis_of_Sequential_Observation_Data">link</a></li>
+      
     </ul>
   </li>
-  <li></li>
 </ul>
 
 <!-- 
