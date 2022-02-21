@@ -22,12 +22,9 @@
        <li>Paris Jeff, "A mathematical incompleteness in Peano arithmetic", Studies in Logic and the Foundations of Mathematics, Vol. 90, Elsevier, 1977, 1133-1142 , <a href="https://www.sciencedirect.com/science/article/abs/pii/S0049237X08711303">link</a></li>
        <li>Mathias Adrian RD, "The ignorance of Bourbaki", Mathematical Intelligencer, 14.3, (1992), 4-13 , <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.36.8862&rep=rep1&type=pdf">link</a></li>
        <li>Sowa John , "A Dynamic Theory of Ontology", VivoMind Intelligence Inc. <a href="http://www.jfsowa.com/pubs/dynonto.htm">link</a></li>
-       <li>Sowa John , "From Existential Graphs to Conceptual Graphs", VivoMind Intelligence Inc., <a href="http://www.jfsowa.com/pubs/eg2cg.pdf">link</a></li>
-       
-       <li>Sowa John , "The Role of Logic and Ontology
-In Language and Reasoning", VivoMind Intelligence Inc., <a href="http://www.jfsowa.com/pubs/rolelog.pdf">link</a></li>
-       <li>Sowa John , "Signs, Processes, and Language Games:
-Foundations for Ontology", VivoMind Intelligence Inc., <a href="http://www.jfsowa.com/pubs/signproc.pdf">link</a></li>
+       <li>Sowa John , "From Existential Graphs to Conceptual Graphs", VivoMind Intelligence Inc., <a href="http://www.jfsowa.com/pubs/eg2cg.pdf">link</a></li>       
+       <li>Sowa John , "The Role of Logic and Ontology In Language and Reasoning", VivoMind Intelligence Inc., <a href="http://www.jfsowa.com/pubs/rolelog.pdf">link</a></li>
+       <li>Sowa John , "Signs, Processes, and Language Games: Foundations for Ontology", VivoMind Intelligence Inc., <a href="http://www.jfsowa.com/pubs/signproc.pdf">link</a></li>
        <li>Geurts Bart, "Discourse Representation Theory", Stanford Encyclopedia of Philosophy <a href="https://plato.stanford.edu/entries/discourse-representation-theory/">link</a></li>
     </ul>
   </li>
