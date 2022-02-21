@@ -1,4 +1,5 @@
 # Bibliography of tracciaOntolog
+<body>
 <ul>
   <li><h2>Propositional calculus</h2>
      <ul>
@@ -30,7 +31,7 @@
       
     </ul>
   </li>
-
+</ul>
 
 <!-- struct
 <ul>
@@ -43,5 +44,5 @@
   <li></li>
 </ul>
 -->
-
+</body>
 
