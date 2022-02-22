@@ -1,5 +1,5 @@
 # Ranganathan_APUPA
-subject heading and facet classification. Graph and tassonomy. Propositional calculus and bounded logic. Conceptual graph and PRECIS
+bibliography about subject heading and facet classification. Graph and tassonomy. Propositional calculus and bounded logic. Conceptual graph and PRECIS
 
 ## lib
 code about the theory of the repository
