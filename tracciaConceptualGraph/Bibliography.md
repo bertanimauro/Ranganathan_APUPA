@@ -36,6 +36,7 @@
        <li>Petrucciani Alberto , "PRECIS un sistema di indicizzazione in sperimentazione in Italia", L'indicizzazione, Anno 2, n. 1, 1987</li>
        <li>Petrucciani Alberto, "Le prospettive di lavoro del Gruppo di ricerca sull'indicizzazione per soggetto" ,Bollettino AIB, ISSN 1121-1490, voi. 32 n. 4 (dicembre 1992), p. 419-43 </li>
        <li>Fabbrizzi Andrea , "Guida all'indicizzazione per soggetto", AIB, 2001<a href="https://www.sba.unifi.it/upload/Guida_allindicizzazione_per_soggetto_GRIS.pdf">link</a></li>
+      <li>Devadason F. J., "Online construction of Alphabetic Classaurus", Pergamon Press, Information Processing and Menagment, 21,1985, vol 1, pag. 11-26, <a href="http://hdl.handle.net/10150/106222">link</a></li>
     </ul>
   </li>
 </ul>
