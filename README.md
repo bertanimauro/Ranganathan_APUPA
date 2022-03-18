@@ -10,7 +10,7 @@ C.S.Peirce and lattice
 ## Traccia ontolog
 propositional calculus
 ## Traccia laws of form
-Syllogism and bounded logic
+Syllogism and boundary logic
 ## Traccia Conceptual Graph
 Conceptual graph and PRECIS
 ## cvs
