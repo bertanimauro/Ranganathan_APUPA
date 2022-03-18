@@ -1,10 +1,5 @@
 /*GENERAL*/
-           @media screen{.figureprint2{display:none;}}
-           @media print{.figureprint{display:none;} 
-	      .figureprint2{display:block;}
-	      figure{page-break-before:always;padding-top:4em} 
-	      #article{font-size:1.1em}
-	   }
+           
            h2{font-size:1.2em}
 	   .align{text-align:center;}
 	   .left{float:left;}
@@ -22,7 +17,7 @@
 	   figure{width:100%;}
 	   figcaption{text-align:center;font-size:0.7em;}
 	   #icon{width:15%;}
-	   #pdf{width:100%;text-align:center;padding-bottom:0.4em;padding-top:2.3em;}
+	   
 	   a:focus,a:active,a:hover,a:visited,a:link {outline:none;text-decoration:none;}
 	   .fontdue{font-size:1.3em;}
 	   .fonttre{font-size:1.8em;line-height:2.3em}
