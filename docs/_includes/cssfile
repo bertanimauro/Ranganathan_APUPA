@@ -80,8 +80,8 @@
 		article{
 		   padding-top:2.3em;
 		   font-family:sans-serif; 
-		   font-size:1.2em; 
-		   line-height:1.6em;
+		   font-size:1em; 
+		   line-height:1.3em;
 		}
 		@media (min-width: 1000px){
 		   article{
