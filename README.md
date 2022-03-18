@@ -1,5 +1,5 @@
 # Ranganathan_APUPA
-Bibliography about subject heading and facet classification. Graph and tassonomy. Propositional calculus and boundary logic. Conceptual graph and PRECIS
+Bibliography about subject heading and facet classification. Graph and tassonomy. Propositional calculus and boundary logic. Conceptual graph and PRECIS : <a href="https://bertanimauro.github.io/Ranganathan_APUPA/">https://bertanimauro.github.io/Ranganathan_APUPA/</a>
 
 ## lib
 code about the theory of the repository
