@@ -92,15 +92,6 @@
 		   }
 		}
 		
-		/*dl-ul*/
-		dl>dd, ul>li{
-		   list-style-type:none
-		}
-		.ul-langle > li {position:relative}
-		 .bullet {
-		   position:absolute;
-		   left: -2.5em;
-		}
 		
 		/*FOOTER*/
 		footer{
