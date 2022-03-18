@@ -91,7 +91,7 @@
 			 line-height:1.6em;
 		   }
 		}
-		.none{display:none;}
+		.zero {display:none}
 		
 		/*FOOTER*/
 		footer{
