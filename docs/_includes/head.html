@@ -9,6 +9,7 @@
         <meta property="og:description"        content="{{page.description}}" />
         <meta property="og:image"              content="{{"https://bertanimauro.github.io/Ranganathan_APUPA/img/" | append: page.image}}" />
      
+        {% include metafile %}
     
 	<script custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js" async=""></script>
     <script custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js" async=""></script>
@@ -18,7 +19,4 @@
 	    {% include cssfile %}
 		
 		</style>
-    <script type="application/ld+json">
-      {{page.myjsonld}}
-    </script>
   </head>
