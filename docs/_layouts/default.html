@@ -1,0 +1,19 @@
+<!doctype html>
+<html amp lang="en">
+	{% include head.html %}
+	<body itemscope itemtype="http://schema.org/Article">
+			
+	   {% include header.html %}
+						
+	   <main id="content" >
+	     <!-- ARTICLE -->
+	     <article class="emlr" itemprop="articleBody">
+		 {{ content }}
+	      </article>
+		
+            </main>
+			
+			
+	{% include footer.html %}
+	</body>
+</html>
